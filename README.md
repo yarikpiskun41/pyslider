@@ -7,7 +7,7 @@ This is small, easy plugin to integrate HTML prersentation with ```<svg></svg>``
 - Put your HTML presentation file into "pyslider/presentations" folder
 - Connect the slider using the following code
 ```sh
- <script type="module" src="[root to folder with 'pyslider']/pyslider/index.js"></script>
+ <script src="[root to folder with 'pyslider']/pyslider/index.js"></script>
 ```
 - Provide a container for presntation and add pyslider component with a name of your presentation file
 ```sh
