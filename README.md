@@ -3,7 +3,7 @@ This is small, easy plugin to integrate HTML prersentation with ```<svg></svg>``
 
 # How to use
 - Just add folder "pyslider" to your project
-- Use [Aspose.app], [Convert.io] or another else presentation converter which convert  your presentation to set of svg tags into one .html file
+- Use [Aspose.app], [Convert.io] or another presentation converter which convert  your presentation to set of svg tags into one .html file
 - Put your HTML presentation file into "pyslider" folder
 - Connect the slider using the following code
 ```sh
